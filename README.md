@@ -1,3 +1,5 @@
+```
+
 \$ whoami
 └── Ellyween M. Mpofu — Developer | Linux Nerd | Emotional Coder | 🧠 AI Explorer
 
@@ -30,7 +32,7 @@
 
 \$ curl -L microsoft.com/ellyween | grep "achievements"
 └── 🏅 Microsoft Desktop Associate
-└── 🏅 Microsoft Desktop  Student Developer
+└── 🏅 Microsoft Desktop Student Developer
 └── 🏅 Azure Developer Associate (in progress)
 🔗 [Microsoft Badges](https://learn.microsoft.com/en-gb/users/ellyweenmpofu/#badges-section)
 
@@ -46,3 +48,5 @@
 📫 [Email](mailto:ellyweempofu@icloud.com)
 🐦 [Twitter](https://x.com/thatdaemon)
 💻 [Portfolio (coming soon)](https://emmorphic.co.zw/el)
+
+```
