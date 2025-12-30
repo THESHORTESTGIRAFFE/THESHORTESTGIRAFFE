@@ -7,7 +7,7 @@
 └── Since 2014, I've been in love with Linux, code editors, and terminal prompts.
 
 \$ uname -a
-└── OS: Debian-based | Preferred Shell: Bash | Mood: Always Dark Mode
+└── OS: Debian-based | Preferred Shell: fish | Mood: Always Dark Mode
 
 \$ cat \~/skills.txt
 └── 🧠 Languages: Python, JavaScript, PHP, SQL
@@ -45,7 +45,7 @@
 
 \$ exit
 └── Connect with me:
-📫 [Email](mailto:ellyweempofu@icloud.com)
+📫 [Email](mailto:ellyweenmpofu@gmail.com)
 🐦 [Twitter](https://x.com/thatdaemon)
 💻 [Portfolio (coming soon)](https://emmorphic.co.zw/el)
 
