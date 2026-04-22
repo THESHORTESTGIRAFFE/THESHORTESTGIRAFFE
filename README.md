@@ -12,7 +12,7 @@
 \$ cat \~/skills.txt
 └── 🧠 Languages: Python, JavaScript, PHP, SQL
 └── 🌐 Web Stack: HTML5, CSS3, Tailwind, Flask, Bootstrap
-└── 🤖 AI & ML: scikit-learn, OpenAI API, Gemini, TensorFlow (learning curve unlocked)
+└── 🤖 AI & ML: Antigravity, Gemini, TensorFlow (learning curve unlocked)
 └── 🛠️ Tools: Git, Figma, VS Code, Linux
 
 \$ tree \~/projects/
